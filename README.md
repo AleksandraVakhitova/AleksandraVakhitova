@@ -18,5 +18,5 @@
 </div>
 
 ### :woman_technologist: About Me :
-I am a Junior Data Analyst <img src="https://media.giphy.com/media/92cu6TfCZDVRBkmmDu/giphy.gif" width="30"> from Montenegro.
+I am a Junior Data Analyst <img src="https://media.giphy.com/media/hZE5xoaM0Oxw4xiqH7/giphy.gif" width="30"> from Montenegro.
 
