@@ -25,6 +25,7 @@ I am a Junior Data Analyst <img src="https://media.giphy.com/media/hZE5xoaM0Oxw4
 - :seedling: Exploring Data and Information Visualization.
 
 - :zap: In my free time, I am keen on searching for new interesting datasets,compeleting pet projects and reading e-commerce related articles.
+- :world_map: I speak Russian, English and Chinese.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Aleksandra-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aleksandra-vakhitova-7049b6189/)
 
