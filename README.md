@@ -34,4 +34,5 @@ I am a Junior Data Analyst <img src="https://media.giphy.com/media/hZE5xoaM0Oxw4
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="Postgresql" alt="Postgresql" width="40" height="40"/>&nbsp;
 
-### 📁 [Junior Analyst Portfolio eng](https://github.com/AleksandraVakhitova/Projects)
+### 📁 [Junior Analyst Portfolio eng]
+- [Study Projectsl](https://github.com/AleksandraVakhitova/Study-Projects)
