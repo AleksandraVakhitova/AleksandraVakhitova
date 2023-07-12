@@ -40,3 +40,7 @@ I am a Junior Data Analyst <img src="https://media.giphy.com/media/hZE5xoaM0Oxw4
 ### 📜 Certifications
 #### Yandex.Practicum
 - [Data Analysis Professional Training Course](https://drive.google.com/file/d/1Znyil3AA6zfIxJQ3LPGZawOEHsdAfAvZ/view?usp=sharing)
+
+#### Stepik
+- [Fundamentals of Statistics](https://drive.google.com/file/d/1-tASeE3D_wW1bobZNTOFY3tensfcyIHW/view?usp=sharing)
+
