@@ -36,7 +36,7 @@ I am a Junior Data Analyst <img src="https://media.giphy.com/media/hZE5xoaM0Oxw4
 
 ### 📁 Junior Analyst Portfolio eng
 - [Study Projects](https://github.com/AleksandraVakhitova/Study-Projects)
-- [Real Projects](https://github.com/AleksandraVakhitova/Real-projects)
+- [Real Projects](https://github.com/AleksandraVakhitova/Real-analytics-projects)
 ### 📜 Certifications
 #### Yandex.Practicum
 - [Data Analysis Professional Training Course](https://drive.google.com/file/d/1Znyil3AA6zfIxJQ3LPGZawOEHsdAfAvZ/view?usp=sharing)
